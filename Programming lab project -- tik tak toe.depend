@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1703580116 source:c:\users\user\documents\codeblock\new folder\programming lab project -- tik tak toe\main.cpp
+	<iostream>
+	<cmath>
+	<iomanip>
+	<vector>
+	<array>
+	<stdlib.h>
+
